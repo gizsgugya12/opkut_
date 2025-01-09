@@ -1,0 +1,8 @@
+    Egy 0-1 hátizsák feladatnak mindig legfeljebb két optimumhelye van.
+    Egy lineáris programozási feladatnak lehet végtelen sok optimuma.
+    Egy lineáris programozási feladat mindig megoldható grafikus módszerrel, ha a korlátozó feltételek száma kettő.
+    Egy lineáris programozási feladat mindig megoldható grafikus módszerrel.
+    Van olyan kiegyensúlyozott szállítási feladat melynek nincs lehetséges megoldása.
+    Egy lineáris programozási feladat esetén, ha van (lehetséges)megoldás, akkor van optimális is.
+    A szállítási feladat egy speciális hozzárendelési feladat.
+    Egy hozzárendelési feladatnak lehetséges, hogy végtelen sok optimumhelye van.
